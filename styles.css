@@ -290,7 +290,7 @@ textarea:focus, input:focus { outline: 3px solid rgba(225,167,44,.42); border-co
   .module-presentation { grid-template-columns: 1fr; }
   .presentation-download { width: 100%; white-space: normal; }
   .video-learning { grid-template-columns: 1fr; }
-  .hero { min-height: 640px; align-items: end; background: linear-gradient(0deg, rgba(255,250,240,1) 0%, rgba(255,250,240,.92) 44%, rgba(255,250,240,.1) 75%), url('assets/riv-burger-hero.png') 63% center/cover; }
+  .hero { min-height: 640px; align-items: end; background: linear-gradient(0deg, rgba(255,250,240,1) 0%, rgba(255,250,240,.92) 44%, rgba(255,250,240,.1) 75%), url('assets/hero-crack-the-code.png') 63% center/cover; }
   .hero-inner { padding: 13rem 1rem 3rem; }
 }
 @media (max-width: 460px) {
